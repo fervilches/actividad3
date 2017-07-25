@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>ejercicio5</title>
+    <style media="screen">
+      #imagen {
+        float: left;
+      }
+
+      #label {
+      position: absolute;
+      left: 26px;
+      top: 2px;
+
+      }
+
+    </style>
+  </head>
+  <body>
+
+    <img id="imagen" src="../images/ribbon_48h.png" alt="ribbon">
+    <img id="label" src="../images/label_red.png" alt="ribbon">
+
+  </body>
+</html>
