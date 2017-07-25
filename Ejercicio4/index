@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>ejercicio4</title>
+    <style media="screen">
+      section{
+        background-color:#b0ccab;
+        padding:50px;
+        height: 200px;
+      }
+      #dos{
+        left:80px;
+        margin-left:40px;
+      }
+    </style>
+  </head>
+  <body>
+  <section>
+  <p id="1">
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam quasi neque fugit non delectus. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p id="dos">
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit sed fugiat id eius. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+  </section>
+  </body>
+</html>
