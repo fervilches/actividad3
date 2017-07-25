@@ -5,14 +5,15 @@
     <title>ejercicio5</title>
     <style media="screen">
       #imagen {
-        float: left;
+      float: left;
+      width: auto;
       }
 
       #label {
-      position: absolute;
-      left: 26px;
-      top: 2px;
-
+        position: absolute;
+        left: 20px;
+        top: 21px;
+        width: 15%;
       }
 
     </style>
