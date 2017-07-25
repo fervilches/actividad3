@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>ejercicio7</title>
+    <style media="screen">
+      #imagen {
+      display: block;
+      width: 15%;
+      margin-left: 41%;
+      position: absolute;
+      }
+
+      #label {
+        position: absolute;
+        margin-left: 51%;
+        top: 151px;
+        width: 5%;
+      }
+      #award {
+        position: relative;
+        float: right;
+        display: block;
+      }
+
+
+    </style>
+  </head>
+  <body>
+
+    <img id="imagen" src="../images/ribbon_48h.png" alt="ribbon">
+    <img id="label" src="../images/despacho.png" alt="despacho">
+    <img id="award" src="../images/awwwards_b_right.png" alt="site">
+
+  </body>
+</html>
