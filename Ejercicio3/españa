@@ -10,6 +10,10 @@
         height: 80px;
         position:relative;
         float: left;
+        border-top: solid 1px gray;
+        border-left: solid 1px gray;
+        border-right:solid 1px gray;
+        box-sizing: border-box;
       }
       #amarillo  {
         background-color: yellow;
@@ -18,6 +22,10 @@
         position:relative;
         top: 60px;
         float: left;
+        border-left:solid 1px gray;
+        border-right:solid 1px gray;
+        box-sizing:border-box;
+        margin: 0px;
       }
       #rojo2 {
         background-color: red;
@@ -25,8 +33,13 @@
         height: 70px;
         position:relative;
         float: left;
-        top: 80px}
+        top: 80px;
+        border-left: solid 1px gray;
+        border-right:solid 1px gray;
+        border-bottom: solid 1px gray;
+        box-sizing: border-box;
       }
+
 
       .clearfix{
         clear: both;

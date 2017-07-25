@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Banderas</title>
+    <style media="screen">
+
+      #rojo {
+        background-color: red;
+        width: 8%;
+        height: 300px;
+        float: left;
+        margin-bottom: 50px;
+        border-left:solid 1px gray;
+        border-top: solid 1px gray;
+        border-bottom: solid 1px gray;
+        box-sizing: border-box;
+      }
+
+      #verde {
+        background-color: green;
+        width: 25%;
+        height: 100px;
+        float: left;
+        border-right: solid 1px gray;
+        border-top: solid 1px gray;
+        box-sizing: border-box;
+        }
+
+      .clearfix {
+          clear: both;
+        }
+
+      #blanco {
+          background-color: white;
+          width: 25%;
+          height: 100px;
+          display: block;
+          position: relative;
+          top: 100px;
+          margin-left: 8%;
+          border-right: solid 1px gray;
+          box-sizing: border-box;
+        }
+
+      #negro {
+        background-color: black;
+        width: 25%;
+        height: 100px;
+        display: block;
+        position: relative;
+        top: 100px;
+        margin-left: 8%;
+        border-right: solid 1px gray;
+        border-bottom: solid 1px gray;
+        box-sizing: border-box;
+      }
+
+    </style>
+  </head>
+  <body>
+<div id="rojo">
+
+</div>
+
+<div id="verde">
+
+</div>
+
+<div id="blanco">
+
+</div>
+
+<div id="negro">
+
+</div>
+
+
+
+  </body>
+</html>
